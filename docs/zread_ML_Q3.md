@@ -1,5 +1,3 @@
-以下是第三个问题，接下来是[第四个问题](https://github.com/ying-ge/FigureYa/blob/main/docs/zread_Q4.md)
-
 问：这些文件放在哪？
 
 答：

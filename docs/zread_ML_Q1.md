@@ -1,9 +1,3 @@
-进入[Zread](https://zread.ai/ying-ge/FigureYa)————Ask AI
-
-你可以问它任何你能想到的问题。举个例子：
-
-第一个问题如下，我接下来会问什么问题？[第二个问题](https://github.com/ying-ge/FigureYa/blob/main/docs/zread_Q2.md)
-
 问：对比FigureYa293machineLearning的10个模型和DeepSeek-v3、GLM4.6、Claude 4 Sonnet这13个模型
 
 答：基于对13个模型的深入分析，我来为您提供一个全面的对比：
