@@ -38,7 +38,7 @@ Bar plots in right panel indicate the number of cancer types with positive corre
 
 该图的优势是将左右两个panel连起来，同时展示多种特征，具体让哪个形状、颜色代表哪些特征，自己可灵活运用。
 
-为了画这个图，完善了crosslink包，该R包会继续添加更多有趣的连线功能，感兴趣可前往<https://github.com/zzwch/crosslink>查看最新版本及功能，在github上还能提交issue跟作者直接交流。
+为了画这个图，完善了crosslink包，感兴趣可前往<https://github.com/zzwch/crosslink>查看更多功能，在github上还能提交issue跟作者直接交流。
 
 This figure comes from the same article as FigureYa174squareCross and FigureYa199crosslink, which is known for its use of linking lines. We will also implement Figure 3c later.
 
