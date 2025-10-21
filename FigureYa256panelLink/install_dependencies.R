@@ -40,6 +40,8 @@ for (pkg in packages_to_install) {
   install_cran_package(pkg)
 }
 
+remotes::install_github("zzwch/crosslink", build = FALSE)
+
 cat("\n===========================================\n")
 
 # 验证安装结果 / Verify installation results
