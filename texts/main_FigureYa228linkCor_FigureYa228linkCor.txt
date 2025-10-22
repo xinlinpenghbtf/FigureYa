@@ -3,7 +3,7 @@ FigureYa228linkCor
 Author(s)
 : Xiaofan Lu
 Reviewer(s)
-: Ying Ge
+: Ying Ge, Hui Huang
 Date
 : 2025-10-22
 Academic Citation
@@ -13,11 +13,24 @@ Xiaofan Lu, et al. (2025). FigureYa: A Standardized Visualization
 Framework for Enhancing Biomedical Data Interpretation and Research
 Efficiency. iMetaMed.
 https://doi.org/10.1002/imm3.70005
+To cite package “bladder cancer signature” in publications use:
+Mariathasan S, Turley SJ, Nickles D, Castiglioni A, Yuen K, Wang Y,
+et al. TGFβ attenuates tumour response to PD-L1 blockade by contributing
+to exclusion of T cells. Nature. 2018; 554: 544-8.
+To cite “immunotherapy predicted pathways signature” in publications
+use:
+Hu J, Yu A, Othmane B, Qiu D, Li H, Li C, Liu P, Ren W, Chen M, Gong
+G, Guo X, Zhang H, Chen J, Zu X. Siglec15 shapes a non-inflamed tumor
+microenvironment and predicts the molecular subtype in bladder cancer.
+Theranostics 2021; 11(7):3089-3108.
+doi:10.7150/thno.53649
+.
+https://www.thno.org/v11p3089.htm
 需求描述
 这个图10D可以实现吗？真的很漂亮，蝴蝶图 | Can this Figure 10D be
 implemented? It’s really beautiful, butterfly plot
 From
-https://www.thno.org/v11p3089.htm
+https://www.thno.org/v11p3089.html
 Figure 6. Roles of Siglec15 in predicting immune phenotypes in the
 XiangYing cohort. (C) Correlations between Siglec15 and the steps of the
 cancer immunity cycle
